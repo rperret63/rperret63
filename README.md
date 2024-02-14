@@ -2,7 +2,7 @@
 Comme beaucoup de passionnés d'informatique de ma génération j'ai commencé mon voyage en programmant des jeux très peu optimisés en Basic sur un Atari ST...  
 Quelques années, une licence informatique et une carrière dans la logistique après, me voilà en train de tenter un défi exaltant : aider les entreprises à se digitaliser, utiliser et protéger leurs données.  
  Pour réaliser ce challenge je peux bien sûr profiter de mes 6 années passées à IKEA à analyser les données de mon magasin pour optimiser l’approvisionnement, l’écoulement des fins de séries, la marge et les coûts.  
-J’ai aussi eu la chance de faire une formation Administrateur Systèmes Réseaux et Cloud grâce à l’organisme M2I, ce qui m’a permis en plus d’un peu d’auto-formation d’acquérir la certification Microsoft Azure Solutions Architect Expert.
+J’ai aussi eu la chance de faire une formation Administrateur Systèmes Réseaux et Cloud grâce à l’organisme M2I, ce qui m’a permis en plus d’un peu d’auto-formation d’acquérir la certification Microsoft Azure Solutions Architect Expert.  
 N’hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/rpdata) ou par mail à <romain.perret@rpdata.fr>
 
 #### Technologies utilisées :
