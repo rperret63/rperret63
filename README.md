@@ -13,15 +13,15 @@ Python avec les frameworks numpy, pandas, matplotlib et seaborn <img src="https:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width=20>  
 SQL
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=20>  
-Power BI et Tableau  
+Power BI et Tableau <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/a02a5999fe56948671721da8b0830cdd5b609ed7/svg/powerbi.svg" width=20>  
 Microsoft Excel  
 Windows (95, XP, 7, 10, 11) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width=20>  
 Windows Server (2016, 2019, 2022)  
 Linux (Debian, Ubuntu, Mint, CentOS, RedHat) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=20>  
-Azure et Microsoft 365 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width=20>  
-Hyperviseurs (ESXi, Proxmox VE, Hyper-V, Xen) et leurs gestionnaires (Vsphere, Vcenter) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original-wordmark.svg" width=20>  
-Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=20>  
-GLPI et OCS-NG  
+Azure et Microsoft 365 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width=20> <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/a02a5999fe56948671721da8b0830cdd5b609ed7/svg/office-365.svg" width=20>  
+Hyperviseurs (ESXi, Proxmox VE, Hyper-V, Xen) et leurs gestionnaires (Vsphere, Vcenter) <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/a02a5999fe56948671721da8b0830cdd5b609ed7/svg/vmware.svg" width=20> <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/a02a5999fe56948671721da8b0830cdd5b609ed7/svg/proxmox.svg" width=20>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original-wordmark.svg" width=20> <img src="https://github.com/walkxcode/dashboard-icons/blob/main/png/vmware-vcenter.png?raw=true" width=20>  
+Docker, Portainer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width=20> <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/a02a5999fe56948671721da8b0830cdd5b609ed7/svg/portainer.svg" width=20>  
+GLPI et OCS-NG <img src="https://github.com/walkxcode/dashboard-icons/blob/main/png/glpi.png?raw=true" width=20>  
 Bash et Powershell <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width=20> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width=20>
 
 #### Retrouvez aussi toutes mes certifications sur [mon profil Credly](https://www.credly.com/users/romain-perret)
