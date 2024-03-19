@@ -6,7 +6,7 @@ J’ai aussi eu la chance de faire une formation Administrateur Systèmes Résea
 
 N’hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/rpdata) ou par mail à <romain.perret@rpdata.fr>
 
-#### Technologies utilisées :
+#### Les technologies que j'utilise sont :
 Python avec les frameworks numpy, pandas, matplotlib et seaborn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=20>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width=20>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width=20>
